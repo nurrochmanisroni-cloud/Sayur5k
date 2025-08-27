@@ -1,0 +1,310 @@
+[
+  {
+    "Nama Menu": "Bayam",
+    "Isi": "1 ikat",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Daun",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Kangkung",
+    "Isi": "1 ikat",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Daun",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Sawi hijau",
+    "Isi": "1 ikat",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Daun",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Sawi putih",
+    "Isi": "500 gr",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Daun",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Daun singkong",
+    "Isi": "1 ikat",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Daun",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Daun pepaya muda",
+    "Isi": "1 ikat",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Daun",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Terong ungu",
+    "Isi": "3 buah",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Buah",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Timun",
+    "Isi": "3 buah",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Buah",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Tomat merah",
+    "Isi": "4 buah",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Buah",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Labu siam",
+    "Isi": "2 buah",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Buah",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Pare",
+    "Isi": "2 buah",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Buah",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Kacang panjang",
+    "Isi": "1 ikat",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Buah",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Wortel",
+    "Isi": "3 buah",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Umbi",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Kentang kecil",
+    "Isi": "±500 gr",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Umbi",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Ubi jalar",
+    "Isi": "500 gr",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Umbi",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Singkong potong",
+    "Isi": "500 gr",
+    "Harga": "Rp 5.000",
+    "Kategori": "Sayuran Umbi",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Cabe rawit merah",
+    "Isi": "100 gr",
+    "Harga": "Rp 5.000",
+    "Kategori": "Bumbu Dapur",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Cabe keriting",
+    "Isi": "100 gr",
+    "Harga": "Rp 5.000",
+    "Kategori": "Bumbu Dapur",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Bawang merah",
+    "Isi": "100 gr",
+    "Harga": "Rp 5.000",
+    "Kategori": "Bumbu Dapur",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Bawang putih",
+    "Isi": "100 gr",
+    "Harga": "Rp 5.000",
+    "Kategori": "Bumbu Dapur",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Lengkuas/jahe/kunyit",
+    "Isi": "250 gr",
+    "Harga": "Rp 5.000",
+    "Kategori": "Bumbu Dapur",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Tumis Kangkung Bawang Putih",
+    "Isi": "kangkung + bawang putih + cabe",
+    "Harga": "Rp 5.000",
+    "Kategori": "Paket Praktis - Tumis",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Tumis Sawi Hijau",
+    "Isi": "sawi + bawang putih + cabe",
+    "Harga": "Rp 5.000",
+    "Kategori": "Paket Praktis - Tumis",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Tumis Kacang Panjang + Tempe",
+    "Isi": "kacang panjang + tempe + cabe",
+    "Harga": "Rp 5.000",
+    "Kategori": "Paket Praktis - Tumis",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Tumis Toge + Tahu",
+    "Isi": "tauge + tahu",
+    "Harga": "Rp 5.000",
+    "Kategori": "Paket Praktis - Tumis",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Tumis Pare",
+    "Isi": "pare iris tipis + bawang merah + bawang putih",
+    "Harga": "Rp 5.000",
+    "Kategori": "Paket Praktis - Tumis",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Tumis Terong Balado",
+    "Isi": "terong + cabe merah",
+    "Harga": "Rp 5.000",
+    "Kategori": "Paket Praktis - Tumis",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Tumis Bayam + Jagung",
+    "Isi": "bayam + jagung pipil",
+    "Harga": "Rp 5.000",
+    "Kategori": "Paket Praktis - Tumis",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Sop Sayur",
+    "Isi": "wortel + kentang + kol + buncis",
+    "Harga": "Rp 5.000",
+    "Kategori": "Paket Praktis - Kuah",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Sayur Bening Bayam",
+    "Isi": "bayam + jagung manis + bawang putih",
+    "Harga": "Rp 5.000",
+    "Kategori": "Paket Praktis - Kuah",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Sayur Asem",
+    "Isi": "labu siam + kacang panjang + jagung",
+    "Harga": "Rp 5.000",
+    "Kategori": "Paket Praktis - Kuah",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Capcay Sederhana",
+    "Isi": "sawi + wortel + kol",
+    "Harga": "Rp 5.000",
+    "Kategori": "Paket Praktis - Capcay",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Capcay Campur",
+    "Isi": "sawi + wortel + brokoli + jagung muda",
+    "Harga": "Rp 5.000",
+    "Kategori": "Paket Praktis - Capcay",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Telur ayam",
+    "Isi": "4 butir",
+    "Harga": "Rp 5.000",
+    "Kategori": "Lauk Mentah - Hewani",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Telur puyuh",
+    "Isi": "±12 butir",
+    "Harga": "Rp 5.000",
+    "Kategori": "Lauk Mentah - Hewani",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Ayam potong",
+    "Isi": "±250 gr",
+    "Harga": "Rp 5.000",
+    "Kategori": "Lauk Mentah - Hewani",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Ikan kembung",
+    "Isi": "2 ekor kecil",
+    "Harga": "Rp 5.000",
+    "Kategori": "Lauk Mentah - Hewani",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Ikan asin",
+    "Isi": "100 gr",
+    "Harga": "Rp 5.000",
+    "Kategori": "Lauk Mentah - Hewani",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Tempe",
+    "Isi": "500 gr",
+    "Harga": "Rp 5.000",
+    "Kategori": "Lauk Mentah - Nabati",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Tahu putih",
+    "Isi": "6 potong sedang",
+    "Harga": "Rp 5.000",
+    "Kategori": "Lauk Mentah - Nabati",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Tahu kuning",
+    "Isi": "5 potong sedang",
+    "Harga": "Rp 5.000",
+    "Kategori": "Lauk Mentah - Nabati",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Ayam marinasi bumbu kuning",
+    "Isi": "±250 gr",
+    "Harga": "Rp 5.000",
+    "Kategori": "Lauk Marinasi",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Lele marinasi bumbu bawang",
+    "Isi": "2 ekor kecil",
+    "Harga": "Rp 5.000",
+    "Kategori": "Lauk Marinasi",
+    "HargaNumber": 5000
+  },
+  {
+    "Nama Menu": "Mujair marinasi sambal kuning",
+    "Isi": "2 ekor kecil",
+    "Harga": "Rp 5.000",
+    "Kategori": "Lauk Marinasi",
+    "HargaNumber": 5000
+  }
+]
